@@ -1,0 +1,8 @@
+{
+  "name": "Iskra Core",
+  "code": "iskra_core",
+  "version": "1.0.0",
+  "author": "Iskra Team",
+  "link": "https://github.com/iskra-ecommerce/iskra-core",
+  "type": "module"
+}
