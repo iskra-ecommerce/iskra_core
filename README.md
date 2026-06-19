@@ -1,15 +1,21 @@
-# Iskra Core
+# Iskra Core — OpenCart 4 Extension
 
-**Version:** 1.0.0
-**Type:** Module
-**Code:** `iskra_core`
-**Compatibility:** OpenCart 4.1+
+[![PHP](https://img.shields.io/badge/PHP-8.1%2B-blue)](https://php.net)
+[![OpenCart](https://img.shields.io/badge/OpenCart-4.1%2B-green)](https://opencart.com)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/iskra-ecommerce/iskra_core)](https://github.com/iskra-ecommerce/iskra_core/releases)
+
+**Version:** 1.0.0 | **Type:** Module | **Code:** `iskra_core`
+
+> **Русский:** [README.ru.md](README.ru.md)
 
 ---
 
 ## Description
 
 Iskra Core is the foundational extension for the Iskra ecosystem. It provides essential infrastructure services used by all other Iskra extensions: logging, event bus, task queue, extended settings, database migrations, integrity checks, and automated backups.
+
+**Keywords:** opencart 4 extension, opencart module, opencart logging, opencart backup, opencart migration, opencart cyrillic support, russian opencart, український opencart.
 
 ---
 
