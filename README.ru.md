@@ -1,15 +1,21 @@
-# Искра: Ядро
+# Искра: Ядро — Расширение для OpenCart 4
 
-**Версия:** 1.0.0
-**Тип:** Модуль
-**Code:** `iskra_core`
-**Совместимость:** OpenCart 4.1+
+[![PHP](https://img.shields.io/badge/PHP-8.1%2B-blue)](https://php.net)
+[![OpenCart](https://img.shields.io/badge/OpenCart-4.1%2B-green)](https://opencart.com)
+[![Лицензия](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Релиз](https://img.shields.io/github/v/release/iskra-ecommerce/iskra_core)](https://github.com/iskra-ecommerce/iskra_core/releases)
+
+**Версия:** 1.0.0 | **Тип:** Модуль | **Code:** `iskra_core`
+
+> **English:** [README.md](README.md)
 
 ---
 
 ## Описание
 
-Iskra Core — фундаментальное расширение экосистемы Искра. Предоставляет базовую инфраструктуру для всех остальных расширений Искра: логирование, шину событий, очередь задач, расширенные настройки, миграции базы данных, проверку целостности и автоматические бэкапы.
+Iskra Core — фундаментальное расширение экосистемы Искра для OpenCart 4. Предоставляет базовую инфраструктуру для всех остальных расширений Искра: логирование, шину событий, очередь задач, расширенные настройки, миграции базы данных, проверку целостности и автоматические бэкапы.
+
+**Ключевые слова:** opencart 4 модуль, opencart расширение, opencart логирование, opencart бэкап, opencart миграция, opencart кириллица, русский opencart, украинский opencart, казахский opencart, белорусский opencart, румынский opencart.
 
 ---
 
