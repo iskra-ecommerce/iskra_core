@@ -7,7 +7,7 @@
 
 **Version:** 1.0.0 | **Type:** Module | **Code:** `iskra_core`
 
-> **Русский:** [README.ru.md](README.ru.md)
+> **Русский:** [README.ru.md](README.ru.md) | **Сайт:** [iskra-ecommerce.github.io](https://iskra-ecommerce.github.io/)
 
 ---
 
